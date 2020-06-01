@@ -1,7 +1,8 @@
 ## Calculate your own personalized fireplace offer
 
-### This app has been created using React Java Script framework.
+This app has been created using React Java Script framework.
 
+```markdown
 It is my first React project where I have learned React Basics:
  - how to use "Create React App" script,
  - basics with components and JSX syntax,
@@ -9,6 +10,7 @@ It is my first React project where I have learned React Basics:
  - differences between stateful and stateless components,
  - using two way binding,
  - different styling usage
+ ```
 
 ### Markdown
 
