@@ -1,8 +1,14 @@
 ## Calculate your own personalized fireplace offer
 
-You can use the [editor on GitHub](https://github.com/MateuszLempik/FireplaceOfferCalculation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This app has been created using React Java Script framework.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is my first project where I have learned React Basics:
+ - how to use "Create React App" script,
+ - bascics with components and JSX syntax,
+ - how to use props and state,
+ - differences between stateful and stateless components,
+ - using two way binding,
+ - different styling usage
 
 ### Markdown
 
