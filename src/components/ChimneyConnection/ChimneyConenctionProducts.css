@@ -1,0 +1,13 @@
+.ChimneyConnectionProducts{
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.ChimneyConnectionProductsEditButton{
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.ChimneyConnectionProductsAddButton{
+    margin-bottom: 1rem;
+}

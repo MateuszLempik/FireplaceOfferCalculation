@@ -1,0 +1,13 @@
+.StoneElements{
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.StoneElementsAddButton{
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.StoneElementsEditButton{
+    margin-top: 0.1rem;
+}

@@ -1,0 +1,13 @@
+.OthersProducts{
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.OthersProductsEditButton{
+    margin-bottom: 1rem;
+}
+
+.OthersProductsAddButton{
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}

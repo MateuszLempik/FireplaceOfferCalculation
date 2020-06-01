@@ -1,0 +1,42 @@
+.EditModeVisibility{
+    display: none;
+}
+
+.CalculateMainProducts{
+    padding-left: 1rem;
+    padding-bottom: 0.5rem;
+    padding-right: 1rem;
+    box-shadow: 0px 0px 15px 0px grey;
+}
+
+.EditProduct {
+    margin-right: 0.5rem;
+}
+
+.CalculateMain .headerStyle {
+    box-shadow: 0px 0px 15px 0px grey;
+    padding: 1rem;
+}
+
+.CalculateMain .additionalStyle {
+    box-shadow: 0px 0px 15px 0px grey;
+    padding: 1rem;
+}
+
+.CalculateMain .additionalStyleInput {
+    font-size: 18px;
+}
+
+.CalculateMain .descriptionInputStyle {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.CalculateMain .footerStyle {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.CalculateMain .footerButton {
+    margin-bottom: 2rem;
+}

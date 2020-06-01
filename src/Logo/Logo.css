@@ -1,0 +1,16 @@
+.Logo {
+    display: flex;
+    justify-content: center;
+}
+
+.Logo img {
+    width: 30%;
+}
+
+@media (max-width: 800px) {
+    .Logo img{
+        width: 30%;
+        min-height: auto;
+        max-height: 6.7rem;
+    }
+}

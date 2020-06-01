@@ -1,0 +1,13 @@
+.GluesProducts{
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.GluesProductsEditButton{
+    margin-bottom: 1rem;
+}
+
+.GluesProductsAddButton{
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
