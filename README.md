@@ -39,6 +39,7 @@ This app has been created using React Java Script framework.
 
 ```markdown
 It is my first React project where I have learned React Basics:
+
  - how to use "Create React App",
  - basics with components and JSX syntax,
  - how to use props and state,
@@ -50,7 +51,7 @@ It is my first React project where I have learned React Basics:
  - how to use higher order components (hoc),
  - how to use axios library to work with REST API,
  - how to use routing with React components,
- - depoying App to the Web (connection to the REST service using Nest.js and MongoDB)
+ - depoying App to the Web (connection to the REST service using Nest.js and MongoDB). [Link to the service](https://github.com/MateuszLempik/TesseractOcrIonic/tree/master/gallery)
  ```
 
 ```markdown
