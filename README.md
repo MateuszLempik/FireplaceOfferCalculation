@@ -49,7 +49,7 @@ It is my first React project where I have learned React Basics:
  - how to use higher order components (hoc),
  - how to use axios library to work with REST API,
  - how to use routing with React components,
- - depoying App to the Web (connection to the REST [service]() using Nest.js and MongoDB)
+ - depoying App to the Web (connection to the REST [service](https://github.com/MateuszLempik/products_offers_service) using Nest.js and MongoDB)
 
 ### Software architecture
 ![Click here](https://raw.githubusercontent.com/MateuszLempik/FireplaceOfferCalculation/master/images/architecture.JPG)
