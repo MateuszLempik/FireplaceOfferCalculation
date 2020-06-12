@@ -3,8 +3,9 @@
 Project purpose and requirements
 
 ```markdown
-**Main target**
- - Implementation of a web application that allows to callculate your own personalized fireplace offer
+*Main target*
+ - Implementation of a web application that allows to callculate your own 
+ personalized fireplace offer
  
  - how to use "Create React App",
  - basics with components and JSX syntax,
