@@ -9,16 +9,16 @@ personalized fireplace offer
 
 **Configuration types**
 
-Configuration (customer decides)
- - fireplace insert,
- - stone type,
- - types of insulation,
- - grill types
+ Configuration (customer decides)
+  - fireplace insert,
+  - stone type,
+  - types of insulation,
+  - grill types
  
-Configuration (employee of the company decides)
- - chimney conenction products (e.g chimney pipe),
- - glues (e.g heat-resistant glue),
- - others (e.g gypsum cardboard plates)
+ Configuration (employee of the company decides)
+  - chimney conenction products (e.g chimney pipe),
+  - glues (e.g heat-resistant glue),
+  - others (e.g gypsum cardboard plates)
  
 **Requirements**
 
@@ -49,7 +49,9 @@ It is my first React project where I have learned React Basics:
  - how to use higher order components (hoc),
  - how to use axios library to work with REST API,
  - how to use routing with React components,
- - depoying App to the Web (connection to the REST service using Nest.js and MongoDB).
+ - depoying App to the Web 
+ 
+ Connection to the REST service using Nest.js and MongoDB
  [Link to the service](https://github.com/MateuszLempik/TesseractOcrIonic/tree/master/gallery).
 
 Syntax highlighted code block
