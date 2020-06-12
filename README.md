@@ -22,7 +22,7 @@ personalized fireplace offer
  
 **Requirements**
 
- - select product from a list - for procing
+ - select product from a list - for pricing
  - add a new product,
  - modify or delete an existing product,
  - calculate product category,
@@ -52,7 +52,7 @@ It is my first React project where I have learned React Basics:
  - depoying App to the Web (connection to the REST [service]() using Nest.js and MongoDB)
 
 ### Software architecture
-- ![click here]()
+- ![Click here]()
 
 ### App link
-- [click here](http://vps776189.ovh.net:3001)
+- [Click here](http://vps776189.ovh.net:3001)
