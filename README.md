@@ -9,16 +9,16 @@ personalized fireplace offer
 
 **Configuration types**
 
- Configuration (customer decides)
-  - fireplace insert,
-  - stone type,
-  - types of insulation,
-  - grill types
- 
- Configuration (employee of the company decides)
-  - chimney conenction products (e.g chimney pipe),
-  - glues (e.g heat-resistant glue),
-  - others (e.g gypsum cardboard plates)
+  Configuration (customer decides)
+   - fireplace insert,
+   - stone type,
+   - types of insulation,
+   - grill types
+
+  Configuration (employee of the company decides)
+   - chimney conenction products (e.g chimney pipe),
+   - glues (e.g heat-resistant glue),
+   - others (e.g gypsum cardboard plates)
  
 **Requirements**
 
