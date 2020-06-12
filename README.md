@@ -14,12 +14,29 @@ It is my first React project where I have learned React Basics:
  - components lifecycle,
  - how to use higher order components (hoc),
  - how to use axios library to work with REST API,
- - how to use routing with React components
+ - how to use routing with React components,
+ - depoying App to the Web
  ```
 
-### Markdown
+### Technology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This app has been created using React Java Script framework.
+
+```markdown
+It is my first React project where I have learned React Basics:
+ - how to use "Create React App",
+ - basics with components and JSX syntax,
+ - how to use props and state,
+ - differences between stateful and stateless components,
+ - using two way binding,
+ - different styling usage,
+ - how to debug and work with React Developer Tools,
+ - components lifecycle,
+ - how to use higher order components (hoc),
+ - how to use axios library to work with REST API,
+ - how to use routing with React components,
+ - depoying App to the Web
+ ```
 
 ```markdown
 Syntax highlighted code block
