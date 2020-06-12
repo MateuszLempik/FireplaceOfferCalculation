@@ -49,31 +49,10 @@ It is my first React project where I have learned React Basics:
  - how to use higher order components (hoc),
  - how to use axios library to work with REST API,
  - how to use routing with React components,
- - depoying App to the Web (connection to the REST [service](https://github.com/MateuszLempik/TesseractOcrIonic/tree/master/gallery) using Nest.js and MongoDB)
+ - depoying App to the Web (connection to the REST [service]() using Nest.js and MongoDB)
 
-Syntax highlighted code block
+### Software architecture
+- ![click here]()
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MateuszLempik/FireplaceOfferCalculation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### App link
+- [click here](http://vps776189.ovh.net:3001)
