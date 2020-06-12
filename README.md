@@ -1,9 +1,11 @@
 ## Calculate your own personalized fireplace offer
 
-This app has been created using React Java Script framework.
+Project purpose and requirements
 
 ```markdown
-It is my first React project where I have learned React Basics:
+**Main target**
+ - Implementation of a web application that allows to callculate your own personalized fireplace offer
+ 
  - how to use "Create React App",
  - basics with components and JSX syntax,
  - how to use props and state,
