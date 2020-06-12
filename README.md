@@ -52,7 +52,7 @@ It is my first React project where I have learned React Basics:
  - depoying App to the Web (connection to the REST [service]() using Nest.js and MongoDB)
 
 ### Software architecture
-![Click here](https://github.com/MateuszLempik/FireplaceOfferCalculation/blob/master/images/architecture.JPG)
+![Click here](https://raw.githubusercontent.com/MateuszLempik/FireplaceOfferCalculation/master/images/architecture.JPG)
 
 ### App link
 - [Click here](http://vps776189.ovh.net:3001)
