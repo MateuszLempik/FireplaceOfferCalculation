@@ -4,7 +4,7 @@ This app has been created using React Java Script framework.
 
 ```markdown
 It is my first React project where I have learned React Basics:
- - how to use "Create React App" script,
+ - how to use "Create React App",
  - basics with components and JSX syntax,
  - how to use props and state,
  - differences between stateful and stateless components,
