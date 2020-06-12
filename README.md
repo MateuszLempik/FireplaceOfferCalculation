@@ -1,6 +1,6 @@
 ## Calculate your own personalized fireplace offer
 
-Project purpose and requirements
+### Project purpose and requirements
 
 **Main target**
  
