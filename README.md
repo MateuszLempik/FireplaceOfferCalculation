@@ -4,7 +4,7 @@
 
 **Main target**
  
-- Implementation of a web application that allows to callculate your own 
+- Implementation of a web application that allows to calculate your own 
 personalized fireplace offer
 
 **Configuration types**
