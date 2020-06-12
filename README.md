@@ -21,16 +21,16 @@ Configuration types
  -- glues (e.g heat-resistant glue),
  -- others (e.g gypsum cardboard plates)
  
- - Requirements
-  -- select product from a list - for procing
-  -- add a new product,
-  -- modify or delete an existing product,
-  -- calculate product category,
-  -- calculate final proice,
-  -- view summary of products and prices,
-  -- hide product proces that the customer should not see,
-  -- create new calculation based on existing
-  -- preview of fireplace orders
+- Requirements
+ -- select product from a list - for procing
+ -- add a new product,
+ -- modify or delete an existing product,
+ -- calculate product category,
+ -- calculate final proice,
+ -- view summary of products and prices,
+ -- hide product proces that the customer should not see,
+ -- create new calculation based on existing
+ -- preview of fireplace orders
  ```
 ### Technology
 
