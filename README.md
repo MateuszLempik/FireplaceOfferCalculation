@@ -2,37 +2,36 @@
 
 Project purpose and requirements
 
-```markdown
-Main target
+**Main target**
  
 - Implementation of a web application that allows to callculate your own 
 personalized fireplace offer
 
-Configuration types
+**Configuration types**
 
-- Configuration (customer decides)
- -- fireplace insert,
- -- stone type,
- -- types of insulation,
- -- grill types
+Configuration (customer decides)
+ - fireplace insert,
+ - stone type,
+ - types of insulation,
+ - grill types
  
-- Configuration (employee of the company decides)
- -- chimney conenction products (e.g chimney pipe),
- -- glues (e.g heat-resistant glue),
- -- others (e.g gypsum cardboard plates)
+Configuration (employee of the company decides)
+ - chimney conenction products (e.g chimney pipe),
+ - glues (e.g heat-resistant glue),
+ - others (e.g gypsum cardboard plates)
  
-- Requirements
+**Requirements**
 
- -- select product from a list - for procing
- -- add a new product,
- -- modify or delete an existing product,
- -- calculate product category,
- -- calculate final proice,
- -- view summary of products and prices,
- -- hide product proces that the customer should not see,
- -- create new calculation based on existing
- -- preview of fireplace orders
- ```
+ - select product from a list - for procing
+ - add a new product,
+ - modify or delete an existing product,
+ - calculate product category,
+ - calculate final proice,
+ - view summary of products and prices,
+ - hide product proces that the customer should not see,
+ - create new calculation based on existing
+ - preview of fireplace orders
+ 
 ### Technology
 
 This app has been created using React Java Script framework.
